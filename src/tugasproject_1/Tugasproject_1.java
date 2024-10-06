@@ -26,11 +26,5 @@ public class Tugasproject_1 {
         }
        return Test_Konek;
        }
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+ 
     }
-    
-}
